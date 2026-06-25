@@ -19,7 +19,7 @@ Examples of unacceptable behavior include:
 ## Enforcement
 Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **[YOUR_EMAIL@EXAMPLE.COM]**. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at **[suchismitabiswas.work@gmail.com**. All complaints will be reviewed and investigated promptly and fairly.
 
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
